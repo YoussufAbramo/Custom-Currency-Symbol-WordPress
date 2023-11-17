@@ -4,8 +4,8 @@ A simple WordPress plugin that allows users to customize the currency symbol use
 
 ## Developer/Author
 
-Name: Youssuf Abramo
-Contact: https://bit.ly/m/abramo/
+- Name: Youssuf Abramo
+- Contact: https://bit.ly/m/abramo/
 
 ## Features
 
